@@ -1,2 +1,6 @@
 #Initial commit
 
+while(true){
+  console.log(!"elartedelaprogramación");
+  console.log("hola bb");
+}
